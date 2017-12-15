@@ -5,6 +5,7 @@
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  width: 100%;
   display: inline-flex;
   align-items: center;
   justify-content: space-between;
@@ -12,11 +13,11 @@
 
 .logo {
   color: MediumAquamarine;
-  width: 155px;
+  width: 175px;
   padding-left: 30px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  /*justify-content: space-around;*/
   flex-grow: 1;
 }
 
