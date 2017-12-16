@@ -13,10 +13,11 @@
 
 .logo {
   color: MediumAquamarine;
-  width: 175px;
+  width: 155px;
   padding-left: 30px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .navigation {
@@ -24,8 +25,4 @@
   text-decoration: underline;
   display: flex;
   justify-content: space-between;
-}
-
-.logo p {
-  padding-left: 12px;
 }
